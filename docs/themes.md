@@ -54,3 +54,20 @@ A modified version of the Simple theme featuring a dark color scheme.
     <img src="assets/img/theme-simple-dark-cover.png" alt="Screenshot of coverpage" title="Cover page">
     <img src="assets/img/theme-simple-dark-content.png" alt="Screenshot of content" title="Content">
 </figure>
+
+### Writer
+
+DESCRIPTION
+
+<a href="#" data-link-title="Writer">Preview</a> |
+[Source](https://github.com/jhildenbiddle/docsify-themeable/tree/master/src/scss/themes/theme-writer.scss)
+
+```html
+<!-- Theme: Simple Dark -->
+<link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-writer.css">
+```
+
+<figure class="thumbnails">
+    <img src="assets/img/theme-writer-cover.png" alt="Screenshot of coverpage" title="Cover page">
+    <img src="assets/img/theme-writer-content.png" alt="Screenshot of content" title="Content">
+</figure>
